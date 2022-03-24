@@ -1,7 +1,7 @@
 # Unit-1-FinTech-Case-Study-Marc-Julies
 My criteria in searching for a business that I would base my case study on was as follows:
 * It provides a FinTech solution I have used
-* A technology company
+* It is a technology company
 * It adopts a SaaS business model
 * It provides solutions that protects the customer when performing financial transactions
 * Supports mobile technology for provides financial services 
