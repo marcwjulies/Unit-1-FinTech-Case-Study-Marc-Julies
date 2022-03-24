@@ -338,10 +338,10 @@ This service would involve a data model to support optimised reporting and analy
 * 5. Prebuilt dashboards displaying metric performance to facilitate decision-making
 
 ## References
-* 1.https://shuftipro.com/
-* 2. https://www.jumio.com/technology/informed-ai/
-* 3. https://www.finextra.com/blogposting/19787/anti-money-laundering---statements-that-echos-over-10-years-after
-* 4. https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html
-* 5. https://shuftipro.com/reports-whitepapers/Enhanced-AI-KYC-R%26D-report.pdf
-* 6. https://www.unit21.ai/blog/is-your-aml-case-management-system-working-ways-to-measure-success
+* https://shuftipro.com/
+* https://www.jumio.com/technology/informed-ai/
+* https://www.finextra.com/blogposting/19787/anti-money-laundering---statements-that-echos-over-10-years-after
+* https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html
+* https://shuftipro.com/reports-whitepapers/Enhanced-AI-KYC-R%26D-report.pdf
+* https://www.unit21.ai/blog/is-your-aml-case-management-system-working-ways-to-measure-success
 
