@@ -10,6 +10,22 @@ Based on the above criteria I have selected the FinTec business, Shufti Pro as a
 
 # Fintec Case Study - Shufti Pro for Australia
 
+## KYC and AML
+
+Anti-money laundering (AML) regulations are mandated by both national and international authorities around the world and place a wide variety of screening and monitoring obligations on financial institutions. Those AML obligations include the Know Your Customer (KYC) process, which enables firms to identify their customers and understand their financial behavior.
+
+AML (anti-money laundering) is an umbrella term for the range of measures, controls, and processes that firms must put in place in order to achieve regulatory compliance. By contrast, KYC is a component part of AML, and refers specifically to the means by which firms establish and verify their customers’ identities, and monitor their financial behavior. 
+
+Typically, the KYC process involves the collection and verification of a range of identifying information from customers including: 
+
+* Name
+* Address
+* Date of birth
+* Company incorporation documents
+
+KYC may also include ongoing transaction monitoring, and a range of customer screening measures, including politically exposed person (PEP) screening, sanctions screening, and adverse media screening. 
+
+
 ## Overview and Origin
 
 Shufti Pro is a global organisation with offices across the globe. It is privately owned, amd provides AI-based KYC, AML & KYB solutions globally for fraud prevention, regulatory compliance & customer onboarding. Their Australian offering is the one I will focus on in this case study.
@@ -88,7 +104,7 @@ Within the AML Screening multiple services exist to provide customers will verif
 
 ### Customers
 
-Shufti Pro empowers businesses across industries to fulfill their regulatory obligations and eliminate fraud without adding friction to the customer experience. The key industries targeted are as follows:
+Shufti Pro empowers businesses across industries to fulfill their regulatory obligations and eliminate fraud without adding friction to the customer experience. As the digital economy continues to thrive, service providers need to deliver flexible and intelligent systems to cater to the ever-changing needs. By verifying the identity of end-users digitally through Shufti Pro’s IDV solutions, companies are now able to prevent digital fraud while avoiding compliance costs. The key industries targeted are as follows:
 
 * Financial Services
 * Peer to Peer Economy
@@ -186,8 +202,146 @@ Overview of B2B and B2C customers.
 
 It’s also distinctive for having developed a platform approach, where it offers a range of different kinds of tools. This is in contrast to many others, which — partly as newer entrants — are focusing on more specific technology or addressing a narrower aspect of what is a pretty complex problem. 
 
-Shufti Pro offers a free and trial versions for its customers.
+Oftentimes, businesses don’t find the automated systems reliable and always have concerns regarding the results. Shufti Pro intelligently addresses this concern by following a hybrid approach that synergizes the use of artificial intelligence and human intelligence for reliable and error-free verification results. All the verification results are manually cross-checked by our human experts that leaves no room for an error. Moreover, continuous human audits help refine the AI models.
+
+Shufti Pro is one of its kind to offer additional information about why verification failed to give another chance to the users to initiate verification again. The automated declined reasons are provided along with instructions for the users to successfully pass the verification checks. Though this is a simple practice, it tends to boost conversion rate by giving users another opportunity.
+
+Data-sensitive industries like healthcare, banking and retail need to take extra measures to protect their consumers’ data. In this regard, an in-house solution to onboard customers can prevent data breaches that often result in a loss of capital and customer trust. To help address data privacy and protection concerns, Shufti Pro’s On-premises Identity Verification provides all-important control over customer data without any third-party interference. The solution not only comes with support for complex architecture but also helps companies meet data protection standards.
+
+Shufti Pro offers a free and trial versions for its customers. A free trial or demo helps users understand the value they will get after actually buying a product or service. It allows prospects to make an informed decision while feeling comfortable with it. Considering this, Shufti Pro introduced the 7-day free trial for the first time in the market. Customers can get full access to KYC, KYB and other features to get a first-hand experience of what we offer without any pre-payments.
 
 ### Technologies
 
-Shufti Pro provides a host of features to support their KYC and AML solutions. The list of features and supporting technologies are as follows:
+### AI Approach
+
+Shufti Pro offers a three-layered model to ensure that every verification performed is accurate to the highest level.
+
+![image](https://user-images.githubusercontent.com/101629518/159847381-d0f07c99-1153-448a-82e0-6ca1e1140d5c.png)
+
+Step 1 - Definitive answer with artificial intelligence-based verification
+Step 2 - Enhanced accuracy with human verification expert
+Step 3 - Well-informed results through QA audit
+
+#### Artificial Intelligence
+AI is the core technology that drives the Shuft Pro solutions. Shufti Pro stays one step ahead by empowering its identity verification services with Enhanced Artificial Intelligence that comprises thousands of AI-based models for informed results. The key AI functionality provided include optical character recognition and image recognition. 
+
+Unlike other technology which is developed using a predefined set of examples, enhanced AI takes into account real data for reliable and more accurate identity verification. This allows businesses to identify and take down compromised IDs and mitigate identity fraud. The models get better with every verification since they learn from different forms of real data.  
+
+To check various elements against an ID, either remotely or on-premises, information from ID documents such as national identity cards, driver’s licenses and passports is extracted. Some of these identity checks include identifying the country of document origin, confirming the authenticity of microprint text and security threads,
+validation of special ink, and comparison with data extracted through OCR and MRZs. Moreover, it also includes validating data and verifying the facial features to
+link individuals to ID documents provided for verification.
+
+With the power of machine learning, automating operations makes the process accurate and eficient rather than solely depending on human verification experts.
+These ID solutions collect internal data through robust mechanisms for recordkeeping of software performance and operation. The acquired data is regularly
+transmitted to the provider using automated systems. The process, if automated, significantly improves the accuracy and turnaround time.
+
+Identity document verification using AI checks the input image against all authentic classes of documents to verify its originality. Parameters such as consistency in
+content, visual correspondence, and resemblance in layout are assessed to perform verification. Shufti Pro adopted artificial intelligence to enhance verification process accuracy. But to understand how Shufti Pro uses artificial intelligence to scale ID verification. The core underlying AI components utilised in its features are:
+* Machine Learning(ML) - In simple terms, machine learning is twofold: (i) Make the computer learn by showing it a set of examples (ii) Perform predictions based on the learned information
+* Deep Neural Networks - Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called Artificial Neural Networks (ANN). The design of an ANN is inspired by neural networks in the human brain. Andrew Ng, a renowned deep learning supporter and mind behind Google Brain, said that deep neural networks are a step towards real AI.
+* Natural Language Processing (NLP) - Definitionally, Natural Language Processing (NLP) is a branch of AI that helps computers to understand, comprehend and manipulate human languages.
+
+Shufti Pro uses deep learning models to identify fraudulent activities related to ID documents. Deep learning helps us identify fake IDs such as understanding the unique font of an ID document, security features of IDs, forgery, etc. Apart from this, liveness detection and anti- spoof deep learning algorithms for 3D detcetion help in accurately verifying that the person taking a picture is the same on the document and is a real person.
+
+#### User Interface
+Shufti Pro is a global IDV solution provider supporting 150+ languages in 230+ countries and territories. With an aim to provide remarkable customer services, it offers user interfaces in various languages to omit the language barrier between the customer and the businesses. It allows global businesses to engage more customers and boost their conversion rates.
+
+Business-tailored services provided by Shufti Pro allows companies to maintain their workflows better. By taking into account what services the client needs and any changes they may require to it, clients can get a flexible solution that fits their needs. When paired with customized UI and the Hosted Verification Page, it gives customers the liberty to make informed decisions as per their requirements.  
+
+#### Omnichannel Integration
+Online businesses can now authenticate customers by offering them multiple platforms for identity verification. Enterprises can provide KYC and AML services over their website through single API integration. Moreover, for Android and iOS, a native SDK integration enables services through the mobile application with global coverage. 
+
+#### GDPR Compliancy
+Shufti Pro is a GDPR-compliant service provider approved by QG Standards, an accreditation body in the UK. We make sure your consumers’ data is secure with us and not processed without the consent of the user or shared with third-parties.
+
+#### Biometric Technology
+Is an automated customer recognition method for verifying the identities of individuals based on behavioral and physiological traits such as fingerprints, voice, facial features, DNA, retina, iris, and others.
+
+
+## Landscape:
+
+### FinTech Domain
+
+Shufti Pro operates within the regulatory and technology FinTech domain.
+
+### Major Trends and Innovation
+
+2020 was all about surviving the pandemic, but it has also kickstarted a new wave of innovation. As we enter the new year, there is an influx of businesses shifting to the digital space to survive market competition. Even smart payment solutions like Google Pay and Apple Pay which allow performing transactions on a smartphone have become old news. 2021 has come with an increased drive for digital-only systems to replace conventional banking and financial norms which are in practice for a long time now.
+
+The finance sector was quick in adopting recent advances in technology. Fintech companies are now trusted partners of more than 60% of the financial institutions out there in the market. Fintech services incorporate Know Your Customer (KYC) standards which are essential for any business entity to fulfil Anti Money Laundering (AML) obligations.
+
+The balance between implementing suitable KYC controls and continuing to enhance the customer experience has been complicated recently by digital disruptors such as FinTechs and challenger banks. FinTech innovations have both positive and negative effects on the KYC process: while most add speed, reducing the time taken to perform due diligence, those same advances also reset expectations around onboarding times – making any gains contingent on a firm’s ability to continue to implement KYC measures efficiently. Solutions that send multiple automated requests for information from customers, for example, are likely to create more negative experiences than services with a lighter touch. 
+
+With that in mind, many financial institutions continue to rely on tried-and-tested methods of performing KYC. A 2021 study by the Wolfsberg Group demonstrated the effectiveness of KYC measures that are designed and implemented to mitigate risk while supporting the objectives of government authorities. However, while the effectiveness of traditional KYC measures endures, firms can still take advantage of FinTech innovation by integrating new technologies such as advanced data analysis and artificial intelligence. Technologies like these represent a way to gain a deeper, more nuanced understanding of customer behavior, while enhancing decision-making in an increasingly complex compliance environment. 
+
+The KYC process relies on the collection and analysis of customer data – but in a complicated, fast-paced regulatory landscape that requirement can present significant challenges. As customer numbers grow, new criminal methodologies emerge, and FinTech innovations such as digital and mobile banking change the risk landscape, firms must find new ways to obtain and analyze the data they need to fulfill their regulatory responsibilities. 
+
+With that in mind, firms should seek to integrate KYC measures that reflect their customers’ technological habits. In particular, firms may use biometric KYC measures, such as photo or ‘selfie’ uploads, fingerprints, and voiceprints as ways to accurately identify and verify their customers. Those KYC innovations both allow firms to remove friction from the customer experience and provide rich data for regulatory compliance purposes. 
+
+Ultimately, the relationship between an AML program and a KYC process should be one of continuous feedback. As a subset of AML, KYC should be used to tailor an AML program to a firm’s unique needs, with compliance teams tasked to regularly refine customer risk profiles and enhance compliance performance.
+
+The growth of KYC and AML will be driven by on-going compliance needs and ever growing global regulatory needs.
+
+### The Players
+
+There KYC and AML space is very competitive and the list of companies providing solution in this space continue to grow. A few of them listed below:
+* Accuity
+* Actimize
+* Alacra
+* Agreement Express
+* Jumio
+
+## Results
+
+### Business Impact
+The business impact Shufti Pro provides a customer is:
+
+* Ensuring regulatory compliance
+* Reduced cost in customer onboarding
+* Increased customer satisfaction due to faster verification times
+
+### Core Metrics of Success
+The core metrics determining sucesss of an KYC and AML initiative is as follows:
+
+* SAR disclosure rates
+* Total alerts
+* False-positive rate
+* Number of AML monitoring scenarios to rules
+* Operational costs of AML compliance
+* Good customer AML turnover rate
+* Negative reviews rate related to AML
+
+### Perfomance Relative to Competitors
+
+Shufti Pro has generated relatively small revenues compared their competitors, but have a smaller employee headcount as well. Only starting in 2012 I foresee it only growing. I has raised $20 million in a Series A funding round, attesting to the considerable excitement about selfie-based remote onboarding technologies.
+
+## Recommendations
+
+### Opportunity for New Product/Services
+
+I would advise that they focus on growing the analytic capability around KYC and AML. Large volumes of data are obviously captured, exposing this information to the client to support further data analysis around KYC and AML. An example would be looking at metrics measuring a customer AML and KYC initiatives. 
+
+### New Service Benefits
+
+This could potentially monetise the data they collecting and offset infrastucture costs.
+
+### Technologies to Support New Service
+
+This service would involve a data model to support optimised reporting and analysis. A high performance data platform to allow for fast data retrieval. APIs to expose the data the client, and a query and analysis platform to assist the client in extracting the relevant data. Additionaly prebuilt dashboards also an option to monitor metric performance and highlight issues.
+
+![image](https://user-images.githubusercontent.com/101629518/159857190-48c3c3cc-4660-4790-ad4f-3d69f90e3ffb.png)
+
+* 1. Exisiting AML ann KYC applications
+* 2. Data collected AML and KYC applications stored in high performance datanse
+* 3. Query interface allowing client retrieve data
+* 4. APIs allowing client to import data into their systems
+* 5. Prebuilt dashboards displaying metric performance to facilitate decision-making
+
+## References
+* 1.https://shuftipro.com/
+* 2. https://www.jumio.com/technology/informed-ai/
+* 3. https://www.finextra.com/blogposting/19787/anti-money-laundering---statements-that-echos-over-10-years-after
+* 4. https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html
+* 5. https://shuftipro.com/reports-whitepapers/Enhanced-AI-KYC-R%26D-report.pdf
+* 6. https://www.unit21.ai/blog/is-your-aml-case-management-system-working-ways-to-measure-success
+
